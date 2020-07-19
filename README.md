@@ -10,9 +10,12 @@ modules:
  4) xlrd
  5) PIL or Pillow
  to get these modules try:
-  pip install <module name here>
-  type this in command prompt or terminal
-  ex : pip install openpyxl
+ 
+ pip install <module name here>
+ 
+ type this in command prompt or terminal
+ 
+ ex : pip install openpyxl
 # Usage
 After installing the packages run start.py
 
