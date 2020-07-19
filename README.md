@@ -11,7 +11,7 @@ modules:
  5) PIL or Pillow
  to get these modules try:
  
- pip install <module name here>
+ pip install "module name here"
  
  type this in command prompt or terminal
  
