@@ -21,7 +21,7 @@ def find_data(index,find):
 				stock.set(sheet.cell_value(i,3))
 				return i
 		except Exception as e:
-			print(e)
+			# print(e)
 			continue
 	code.set("Not Found")
 	item.set("Not Found")

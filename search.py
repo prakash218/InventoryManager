@@ -65,7 +65,7 @@ def submit(num = 5):
 					print(str(int(inv)) + '\t' + str(date) + '\t' + str(podate) + '\t' + str(ponum) + '\t' + str(comp) + '\t' +str(amt) + '\t' +str(rcd))
 					break
 			except Exception as e:
-				print(e,i)
+				# print(e,i)
 				continue
 	
 	if opt == 'Date':
@@ -95,7 +95,7 @@ def submit(num = 5):
 					print(str(int(inv)) + '\t' + str(date) + '\t' + str(podate) + '\t' + str(ponum) + '\t' + str(comp) + '\t' +str(amt) + '\t' +str(rcd))
 					break
 			except Exception as e:
-				print(e,i)
+				# print(e,i)
 				continue
 	if opt == 'Sl.no':
 		try:
